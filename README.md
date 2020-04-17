@@ -7,3 +7,9 @@ In this repository I have attached the presentation of design and analysis of al
 3) dynamic programming
 4) greedy medthod
 5) branch and bound
+
+
+--->
+AKI SRI CHARAN
+181210007
+CSE 2ND YEAR
